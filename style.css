@@ -1,12 +1,2 @@
-form{
-    all: none;
-}
-h2 {
-    align: center;
-}
-.green {
-    color: green;
-}
-.red {
-    color: red;
-}
+.green { color: green; }
+.red { color: red; }
